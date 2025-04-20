@@ -1,11 +1,11 @@
-#Demo
+# Demo
 
 some description!
 
-##subheader
+## subheader
 
 Watch tutorial on Youtube.
 
-##Local Development 
+## Local Development 
 
-1.Open idex.html in tour browser .
+1. Open index.html in your browser .
